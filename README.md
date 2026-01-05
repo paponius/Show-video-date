@@ -2,7 +2,7 @@
 
 To keep user from being distracted by factual information on their site, some content providers decided to remove the creation date of a video. Google followed... though on google it's easy to click on a link a type "v" in place of "reels" to see a video in normal view, with a date.
 
-Thankfully, the horrific, web breaking Next is so badly created, it's possible to find a lot of unintended left over data.
+Thankfully, it's running on Next and that nightmare brings some perks.
 
 This script will add a box with creation date next to a video.  
 
@@ -11,8 +11,12 @@ Last comment? Last edit? Last user login?
 
 ## Sites
 https://www.facebook.com/reel/...  
-https://www.instagram.com/reel/... (will add time and timezone)  
-google.com, there will be a button to redirect to full YouTube instead
+
+### Planned:  
+will also show time and timezone:  
+https://www.instagram.com/reel/...  
+
+google.com, will have a button to redirect to full YouTube instead
 
 ### [Add this UserScript to *Monkey](https://github.com/paponius/Show-video-date/raw/master/GM/show_video_date.user.js)
 
